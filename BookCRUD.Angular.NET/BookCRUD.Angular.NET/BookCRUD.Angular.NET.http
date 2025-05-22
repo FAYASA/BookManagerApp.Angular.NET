@@ -1,0 +1,6 @@
+@BookCRUD.Angular.NET_HostAddress = http://localhost:5185
+
+GET {{BookCRUD.Angular.NET_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
