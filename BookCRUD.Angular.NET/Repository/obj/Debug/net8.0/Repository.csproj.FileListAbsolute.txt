@@ -1,0 +1,16 @@
+D:\GitHub_Repo\BookManagerApp.Angular.NET\BookCRUD.Angular.NET\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\GitHub_Repo\BookManagerApp.Angular.NET\BookCRUD.Angular.NET\Repository\bin\Debug\net8.0\Repository.dll
+D:\GitHub_Repo\BookManagerApp.Angular.NET\BookCRUD.Angular.NET\Repository\bin\Debug\net8.0\Repository.pdb
+D:\GitHub_Repo\BookManagerApp.Angular.NET\BookCRUD.Angular.NET\Repository\bin\Debug\net8.0\Model.dll
+D:\GitHub_Repo\BookManagerApp.Angular.NET\BookCRUD.Angular.NET\Repository\bin\Debug\net8.0\Model.pdb
+D:\GitHub_Repo\BookManagerApp.Angular.NET\BookCRUD.Angular.NET\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+D:\GitHub_Repo\BookManagerApp.Angular.NET\BookCRUD.Angular.NET\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Repo\BookManagerApp.Angular.NET\BookCRUD.Angular.NET\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\GitHub_Repo\BookManagerApp.Angular.NET\BookCRUD.Angular.NET\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\GitHub_Repo\BookManagerApp.Angular.NET\BookCRUD.Angular.NET\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\GitHub_Repo\BookManagerApp.Angular.NET\BookCRUD.Angular.NET\Repository\obj\Debug\net8.0\Repository.sourcelink.json
+D:\GitHub_Repo\BookManagerApp.Angular.NET\BookCRUD.Angular.NET\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+D:\GitHub_Repo\BookManagerApp.Angular.NET\BookCRUD.Angular.NET\Repository\obj\Debug\net8.0\Repository.dll
+D:\GitHub_Repo\BookManagerApp.Angular.NET\BookCRUD.Angular.NET\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\GitHub_Repo\BookManagerApp.Angular.NET\BookCRUD.Angular.NET\Repository\obj\Debug\net8.0\Repository.pdb
+D:\GitHub_Repo\BookManagerApp.Angular.NET\BookCRUD.Angular.NET\Repository\obj\Debug\net8.0\ref\Repository.dll

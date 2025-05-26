@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookCRUD.Angular.NET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4d4c29e639140ee7477184fcbcc58c495161f56")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4e55d8e0b577f0636d13422749817990d2f28d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookCRUD.Angular.NET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookCRUD.Angular.NET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

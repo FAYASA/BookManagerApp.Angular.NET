@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BookCRUD.Angular.NET.props" />
+</Project>
